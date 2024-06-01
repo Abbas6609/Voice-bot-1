@@ -9,3 +9,10 @@ Streamlit: For the slick web app interface.
 LangChain: Manages the AI chat logic.
 Python libraries: For recognizing speech and converting text to speech.
 This project is a fun peek into what’s possible when you blend AI with everyday interactions. It’s about making technology that’s not just smart, but also accessible and interactive.
+
+
+
+![](Snapshots-1.jpg)
+![](Snapshots-2.jpg)
+![](Snapshots-3.jpg)
+![](Snapshots-4.jpg)
