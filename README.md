@@ -12,7 +12,7 @@ This project is a fun peek into what’s possible when you blend AI with everyda
 
 
 
-![](Snapshots-1.jpg)
-![](Snapshots-2.jpg)
-![](Snapshots-3.jpg)
-![](Snapshots-4.jpg)
+![](Screenshot-1.jpg)
+![](Screenshot-2.jpg)
+![](Screenshot-3.jpg)
+![](Screenshot-4.jpg)
