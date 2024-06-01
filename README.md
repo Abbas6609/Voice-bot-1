@@ -14,14 +14,14 @@ This project is a fun peek into what’s possible when you blend AI with everyda
 
 
 
-#### Web application interface displaying the VoiceBot: AI Conversations banner and an introductory text about computer science
+## Web application interface displaying the VoiceBot: AI Conversations banner and an introductory text about computer science
 ![Web application interface displaying the VoiceBot: AI Conversations banner and an introductory text about computer science](Screenshot%20-1.jpg)
 
-#### Detailed explanation within the VoiceBot app on artificial intelligence, describing AI's roles and functionalities
+## Detailed explanation within the VoiceBot app on artificial intelligence, describing AI's roles and functionalities
 ![Detailed explanation within the VoiceBot app on artificial intelligence, describing AI's roles and functionalities](Screenshot%20-2.jpg)
 
-#### Overview of AI's impact in robotics, highlighting key applications such as perception and planning
+## Overview of AI's impact in robotics, highlighting key applications such as perception and planning
 ![Overview of AI's impact in robotics, highlighting key applications such as perception and planning](Screenshot%20-3.jpg)
 
-#### Screenshot of the source code in an IDE for the VoiceBot application, showcasing the Streamlit code structure and settings
+## Screenshot of the source code in an IDE for the VoiceBot application, showcasing the Streamlit code structure and settings
 ![Screenshot of the source code in an IDE for the VoiceBot application, showcasing the Streamlit code structure and settings](Screenshot%20-4.jpg)
